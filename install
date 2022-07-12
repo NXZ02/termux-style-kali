@@ -1,2 +1,2 @@
 #                  เอาเท่                 #
-figlet Install && python set.py && sh setup
+figlet Install && python set.py && sh file
