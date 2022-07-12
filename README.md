@@ -3,6 +3,6 @@
 # pkg install git -y
 # pkg install python -y
 # git clone https://github.com/NXZ02/termux-style-kali
-# cd Kali-cool
+# cd termux-style-kali
 # chmod +x install
 # ./install
