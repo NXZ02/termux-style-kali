@@ -20,11 +20,14 @@ function setup()
 {
     if ! which figlet  wget > /dev/null; then
         pkg install figlet wget -y
+        ./install.sh
+        
 
     else
         echo ${C};
         clear && figlet Yuki_senpai 
         echo ${W};
+        menu
     fi
 }
 
