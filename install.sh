@@ -27,7 +27,7 @@ function setup()
         echo ${C};
         clear && figlet Yuki_senpai 
         echo ${W};
-        menu
+        
     fi
 }
 
