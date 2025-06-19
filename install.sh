@@ -25,7 +25,6 @@ function setup()
         echo ${C};
         clear && figlet Yuki_senpai 
         echo ${W};
-        menu
     fi
 }
 
@@ -109,7 +108,8 @@ function input()
             echo ${R}
             echo -e "Not chocice !"
             sleep 1
-            setup    
+            setup
+            menu
             input
     esac
     
