@@ -109,8 +109,7 @@ function input()
             echo ${R}
             echo -e "Not chocice !"
             sleep 1
-            setup
-            menu    
+            setup    
             input
     esac
     
