@@ -1,6 +1,6 @@
 # termux-style-kali
 # วิธีติดตั้ง
- git clone https://github.com/NXZ02/termux-style-kali
+ git clone https://github.com/sayurisenpai/termux-style-kali
  #
  cd termux-style-kali
  #
